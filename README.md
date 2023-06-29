@@ -3,10 +3,10 @@
 
 🌱 Estudando: C# 
 
-<div>
+<div style="display: flex;">
   <a href="https://github.com/kroucees">
-    <img style="width: 48%; display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=kroucees&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-    <img style="width: 48%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kroucees&layout=compact&langs_count=8&theme=synthwave"/>
+    <img style="width: 50%; flex: 1; object-fit: contain;" src="https://github-readme-stats.vercel.app/api?username=kroucees&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+    <img style="width: 50%; flex: 1; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kroucees&layout=compact&langs_count=8&theme=synthwave"/>
   </a>
 </div>
 
